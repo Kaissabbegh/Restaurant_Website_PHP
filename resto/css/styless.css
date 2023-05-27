@@ -1,0 +1,41 @@
+.body{
+  cursor: pointer;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #b95716, #380909, #d81616);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .gradient-background1 {
+    background: linear-gradient(300deg, #ffffff, #faa1a1, #ffc0cb);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+.main-buttons{
+  background-color: #FFC0D3;
+}
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+  .icon-squaree {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+  .product_img{
+    width: 10px;
+    object-fit: contain;
+  }
