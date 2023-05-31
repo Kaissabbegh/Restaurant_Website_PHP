@@ -46,4 +46,4 @@ If you would like to contribute to this project, please follow these steps:
 5. Submit a pull request detailing your changes.
 
 ## Authors
-- [Kais Sabbegh] <[your-email@example.com](mailto:kaissabbegh@gmail.com)>
+- [Kais Sabbegh] <[kaissabbegh@gmail.com](mailto:kaissabbegh@gmail.com)>
